@@ -1,0 +1,16 @@
+{
+  "frontendFolder": "D:/Shtopor/mirror/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/Shtopor/mirror/./frontend/generated/jar-resources",
+  "staticOutput": "D:/Shtopor/mirror/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\Shtopor\\mirror\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\Shtopor\\mirror\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "jarResourcesFolder": "D:/Shtopor/mirror/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\Shtopor\\mirror\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
