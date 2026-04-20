@@ -1,0 +1,32 @@
+# --- IntelliJ / IDE ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# --- Java / Maven ---
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# --- Node / Frontend ---
+node_modules/
+dist/
+build/
+.npm/
+.pnpm-store/
+
+# --- Local databases / runtime data ---
+*.mv.db
+*.trace.db
+*.h2.db
+
+# --- OS / temp files ---
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
